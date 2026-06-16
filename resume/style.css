@@ -1,5 +1,68 @@
+/* Style for my resume */
+
+BODY {
+    font-family: 'Open Sans', arial, sans-serif;
+    font-size: 1em;
+    color:#444;
+    font-weight: 400;
+}
+
+/* Name */
 #name {
     font-size: 3em;
     text-transform: uppercase;
     text-align: center;
+    color: #33485e;
+    border-bottom: 1px solid #33485e;
+    width: 60%;
+    min-width: 300px;
+    margin: 0 auto;
 }
+
+/* My title */
+strong {
+    color: #33485e;
+    text-transform: uppercase;
+    font-size: 1.5em;
+}
+
+/* Section titles */
+h2 {
+    font-size: 1.5em;
+    text-transform: uppercase;
+    background-color:#33485e;
+    color: #fff;
+    font-weight: 400;
+}
+
+/* Job title */
+h3 {
+    font-size: 1.5em;
+    font-weight: 600;
+}
+
+/* Job organization */
+h4 {
+    font-size: 1.5em;
+    font-weight: 400;
+}
+
+/* Job dates */
+ h5 {
+    font-size: 1.5em;
+    font-weight: 400;
+    font-style: italic;
+}
+
+/* Contact information, skills, education */
+li {
+    font-size: 1em;
+}
+
+/* Skills */
+ul {
+    font-size: 1em;
+}
+
+/* Education */
+
