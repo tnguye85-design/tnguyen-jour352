@@ -57,13 +57,13 @@ strong {
 
 /* Job organization */
 .organization {
-    font-size: 1.5em;
+    font-size: 1.25em;
     font-weight: 400;
 }
 
 /* Job dates */
  .date {
-    font-size: 1.5em;
+    font-size: 1em;
     font-weight: 400;
     font-style: italic;
     margin-top: 2px;
