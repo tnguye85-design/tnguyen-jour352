@@ -1,1 +1,16 @@
-@media only screen and (max-width: 500px) {
+   @media only screen and (max-width: 500px) {
+
+<style>
+ .h2 {
+   padding-top: 50px;
+ }
+ </style>
+
+ <style>
+ .btn {
+   background-color: teal;
+ }
+ </style>
+
+
+   }
