@@ -1,0 +1,10 @@
+@media only screen and (max-width: 500px) {
+
+    .btn {
+        background-color: teal;
+    }
+
+    .h2 {
+        top-padding: 50px;
+    }
+}
