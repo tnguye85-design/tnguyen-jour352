@@ -1,0 +1,85 @@
+/* Stylesheet for midterm */
+ 
+.navbar-brand {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 30px;
+  text-align: center;
+  font-style: italic;
+  font-weight: bold;
+  margin: 0 auto;
+  border: solid;
+  border-width: 1.5px;
+  border-left: 2px;
+  border-right: 2px;
+}
+
+.h1 {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 30px;
+  text-align: center;
+  font-weight: bold;
+  margin: 0 auto;
+}
+
+.intro {
+  font-family: 'Helvetica', Arial, sans-serif;
+  font-size: 12px;
+}
+
+#byline {
+font-family: 'Times New Roman', Times, serif
+font-size: 14px;
+font-style: italic;
+text-align: center;
+}
+
+/* For all images but the first one */
+.img1 {
+  width: 320px;
+  margin: 0 auto;
+  margin-bottom: 5%;
+  font-style: italic;
+  font-size: 12px;
+}
+
+.h2 {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: large;
+  font-weight: bold;
+}
+
+#related {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 25px;
+  text-align: center;
+  background-color: #ccc;
+  font-style: italic;
+}
+
+#story {
+  font-family: 'Helvetica', Arial, sans-serif;
+  font-size: 12px;
+  text-align: left;
+  width: 50%;
+  margin: 0 auto;
+}
+ 
+blockquote {
+  font-family: 'Helvetica', Arial, sans-serif;
+  font-size: 15px;
+  font-style: italic;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  color: #228B22;
+  margin-left: 60px;
+  padding-left: 5%;
+  border-left: 4px solid #ccc;
+}
+
+.related {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 13px;  
+  width: 50%;
+  text-align: center;
+  margin: 0 auto;
+}
