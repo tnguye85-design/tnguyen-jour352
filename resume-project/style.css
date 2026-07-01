@@ -1,1 +1,114 @@
 /* Style for resume project */
+
+.col-md-6 {
+  font-family: 'Roboto', Arial, sans-serif;
+   text-align: center;
+ }
+
+ .bi {
+   font-size:3em;
+ }
+
+ .col-md-4 {
+  font-family: 'Roboto', Arial, sans-serif;
+   text-align: center;
+ }
+
+.navbar-brand {
+  font-family: 'Roboto', Arial, sans-serif;
+   text-align: center;
+ }
+
+.h1 {
+  font-family: 'Roboto', Arial, sans-serif;
+  font-size: 45px;
+ }
+
+.btn {
+  font-family: 'Roboto', Arial, sans-serif;
+ }
+
+.row {
+  padding-bottom: 50px;
+ }
+
+BODY {
+    font-family: 'Roboto', Arial, sans-serif;
+    font-size: 1em;
+    color:#444;
+    font-weight: 400;
+}
+
+/* Section titles */
+.sectionheader {
+    font-size: 1.5em;
+    text-transform: uppercase;
+    background-color:#b87b7b;
+    color: #fff;
+    font-weight: 400;
+    margin-bottom: 10px;
+    margin-top: 20px;
+    margin: 0 auto;
+    width: 70%;
+    min-width: 300px;
+    text-align: center;
+}
+
+/* Job title */
+.jobtitle {
+    font-size: 1.5em;
+    font-weight: 600;
+
+}
+
+/* Job organization */
+.organization {
+    font-size: 1.25em;
+    font-weight: 400;
+}
+
+/* Job dates */
+ .date {
+    font-size: 1em;
+    font-weight: 400;
+    font-style: italic;
+    margin-top: 2px;
+}
+
+/* Paragraphs, contact information, skills */
+li {
+    font-size:1em;
+}
+
+.menu {
+    margin:0;
+    padding:0;
+    text-align:center;
+}
+
+.menu li {
+    display: inline;
+}
+
+.description {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.skill {
+    font-size: 1.5em;
+    font-weight: 600;
+}
+
+#title {
+    font-weight: 600;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.top {
+    width: 60%;
+    min-width: 300px;
+    margin:0 auto;
+    margin-bottom: 30px;
+}
